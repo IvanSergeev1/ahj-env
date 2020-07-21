@@ -1,3 +1,5 @@
+[Pages](https://queenarizona.github.io/ahj-env/)
+
 [![Build status](https://ci.appveyor.com/api/projects/status/ketg3h92wblwm0w7/branch/master?svg=true)](https://ci.appveyor.com/project/QueenArizona/ahj-env/branch/master)
 
 **Важно**: все задачи к данной лекции можно выполнить в виде одного репозитория (т.е. допускается не делать отдельные репозитории на каждую задачу).
